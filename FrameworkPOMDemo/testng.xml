@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="FrameworkPOM.FrameworkPOMDemo.Newtest"/>
-    </classes>
+      <class name="com.POMFramework.testcases.TestingSQA"/>
+        </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -2,48 +2,48 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="164307" started-at="2021-03-02T13:59:47Z" finished-at="2021-03-02T14:02:31Z">
+  <suite name="Suite" duration-ms="94269" started-at="2021-03-03T10:58:02Z" finished-at="2021-03-03T10:59:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="164307" started-at="2021-03-02T13:59:47Z" finished-at="2021-03-02T14:02:31Z">
+    <test name="Test" duration-ms="94269" started-at="2021-03-03T10:58:02Z" finished-at="2021-03-03T10:59:37Z">
       <class name="com.POMFramework.testcases.TestingSQA">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="setup" is-config="true" duration-ms="14590" started-at="2021-03-02T19:29:47Z" finished-at="2021-03-02T19:30:01Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="setup" is-config="true" duration-ms="13006" started-at="2021-03-03T16:28:02Z" finished-at="2021-03-03T16:28:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="homePage()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="homePage" duration-ms="28824" started-at="2021-03-02T19:30:01Z" finished-at="2021-03-02T19:30:30Z">
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="homePage" duration-ms="16364" started-at="2021-03-03T16:28:15Z" finished-at="2021-03-03T16:28:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="tearDown" is-config="true" duration-ms="763" started-at="2021-03-02T19:30:30Z" finished-at="2021-03-02T19:30:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="tearDown" is-config="true" duration-ms="1420" started-at="2021-03-03T16:28:32Z" finished-at="2021-03-03T16:28:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="setup" is-config="true" duration-ms="12022" started-at="2021-03-02T19:30:31Z" finished-at="2021-03-02T19:30:43Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="setup" is-config="true" duration-ms="14017" started-at="2021-03-03T16:28:33Z" finished-at="2021-03-03T16:28:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="dbPage()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="dbPage" duration-ms="24314" started-at="2021-03-02T19:30:43Z" finished-at="2021-03-02T19:31:07Z">
+        <test-method status="PASS" signature="dbPage()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="dbPage" duration-ms="15674" started-at="2021-03-03T16:28:47Z" finished-at="2021-03-03T16:29:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dbPage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="tearDown" is-config="true" duration-ms="724" started-at="2021-03-02T19:31:07Z" finished-at="2021-03-02T19:31:08Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="tearDown" is-config="true" duration-ms="659" started-at="2021-03-03T16:29:03Z" finished-at="2021-03-03T16:29:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="setup" is-config="true" duration-ms="17190" started-at="2021-03-02T19:31:08Z" finished-at="2021-03-02T19:31:25Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="setup" is-config="true" duration-ms="8732" started-at="2021-03-03T16:29:03Z" finished-at="2021-03-03T16:29:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="loginPage" duration-ms="65022" started-at="2021-03-02T19:31:25Z" finished-at="2021-03-02T19:32:30Z">
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="loginPage" duration-ms="23671" started-at="2021-03-03T16:29:12Z" finished-at="2021-03-03T16:29:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="tearDown" is-config="true" duration-ms="811" started-at="2021-03-02T19:32:30Z" finished-at="2021-03-02T19:32:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.POMFramework.testcases.TestingSQA@193948d]" name="tearDown" is-config="true" duration-ms="679" started-at="2021-03-03T16:29:36Z" finished-at="2021-03-03T16:29:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.POMFramework.testcases.TestingSQA -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

@@ -5,9 +5,9 @@
     <classes>
       <class name="com.POMFramework.testcases.TestingSQA">
         <methods>
-          <include name="loginPage"/>
           <include name="setup"/>
           <include name="tearDown"/>
+          <include name="homePage"/>
         </methods>
       </class> <!-- com.POMFramework.testcases.TestingSQA -->
     </classes>
