@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.POMFramework.testcases.TestingSQA">
+      <class name="com.POMFramework.testcases.TestForListener">
         <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="homePage"/>
+          <include name="TestToFail"/>
         </methods>
-      </class> <!-- com.POMFramework.testcases.TestingSQA -->
+      </class> <!-- com.POMFramework.testcases.TestForListener -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
